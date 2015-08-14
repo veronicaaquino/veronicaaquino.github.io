@@ -39,6 +39,7 @@ footer {
     margin:0;
     min-width:100%;
     position: absolute;
+    left:0;
     bottom:0;
     background: #FFFFFF;
     background: rgba(255,255,255,0.8);

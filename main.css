@@ -27,6 +27,7 @@ body {
     margin-right: auto;
     margin-bottom: 20px;
     padding: 10px 30px;
+    bottom:0;
     background: #FFFFFF;
     background: rgba(255,255,255,0.8);
 }
@@ -37,6 +38,7 @@ body {
 }
 footer {
     margin:0;
+    height: 50px;
     min-width:100%;
     position: absolute;
     left:0;

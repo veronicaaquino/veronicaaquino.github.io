@@ -26,10 +26,20 @@ body {
     background: #FFFFFF;
     background: rgba(255,255,255,0.8);
 }
-.subject {
-    font-size: 1.25em;
-    font-weight: 400;
-    letter-spacing: 1px;
+
+h2 {
+    padding: 0px;
+    margin: 0px;
+}
+
+h3 {
+    padding: 0px;
+    margin: 0px;
+}
+
+p {
+    padding: 0px;
+    margin: 0px;
 }
 
 @media screen and (min-width:768px) {
